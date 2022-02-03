@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="http://zeus.cooltext.com/rendered/cooltext403423142598260.png" alt="mdsamratislamtushar"></h1>
+<h1 align="center"> Hi, I am Tushar Here</h1>
 <h3 align="center"><img src="https://pbs.twimg.com/media/FKgzELyaAAEbmHb?format=png&name=small" alt"tushar"></h3>
 
 
